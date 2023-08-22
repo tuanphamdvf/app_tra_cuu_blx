@@ -6,7 +6,7 @@
  */
 
 import React from 'react';
-
+import {NativeBaseProvider} from 'native-base';
 import {NavigationContainer} from '@react-navigation/native';
 import MainNavigator from './screens/navigations/MainNavigator';
 

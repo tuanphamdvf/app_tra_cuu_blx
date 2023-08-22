@@ -1,4 +1,11 @@
 {
   "name": "app_tra_cuu_blx",
-  "displayName": "app_tra_cuu_blx"
+  "displayName": "app_tra_cuu_blx",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "05d968a3-413a-4b94-90aa-f6c0fce2b0d3"
+      }
+    }
+  }
 }
